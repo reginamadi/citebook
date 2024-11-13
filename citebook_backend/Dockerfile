@@ -20,7 +20,8 @@ RUN docker-php-ext-install pdo_mysql
 
 # Copy entrypoint script and set permissions
 COPY entrypoint.sh /usr/local/bin/entrypoint.sh
-RUN chmod +x /usr/local/bin/entrypoint.sh
+RUN chmod +x /usr/local/bin/entrypoint.sh  && \ 
+    dos2unix /usr/local/bin/entrypoint.sh
 
 # Set working directory
 WORKDIR /var/www/html
@@ -28,8 +29,6 @@ WORKDIR /var/www/html
 # Copy composer.json and composer.lock files
 COPY composer.json composer.lock ./
 
-# Install PHP dependencies
-RUN composer install --no-dev --prefer-dist --no-scripts --no-autoloader
 
 # Copy the rest of the application files
 COPY . .
