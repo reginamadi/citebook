@@ -1,0 +1,34 @@
+.upload_desc{
+    margin-bottom: 10px;
+}
+.upload_bt{
+    margin-top: 1%;
+    display:flex
+}
+.ui.icon.button.a{
+    position:relative;
+    width:48%;
+    left: 1%;
+    margin-right: 1%;
+}
+.ui.icon.button.c{
+    width:5%;
+}
+.ui.icon.button.b{
+    position:absolute;
+    width:48%;
+    left:50%;
+    background-color: #00b5ad;
+}
+.ui.icon.button.d{
+    background-color: #00b5ad;
+}
+
+
+.ui.icon.button.Submit_GS{
+    position:absolute;
+    width:48%;
+    left:50%;
+    background-color: #00b5ad;
+}
+

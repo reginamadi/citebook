@@ -1,0 +1,16 @@
+export const SIGN_IN = 'SIGN_IN';
+export const SIGN_OUT = 'SIGN_OUT';
+export const REGISTER = "REGISTER";
+export const CREATE_POST="CREATE_POST";
+export const FEED_POST="FEED_POST";
+export const LIKE_POST="LIKE_POST";
+export const VIEW_POST="VIEW_POST";
+export const GET_INFO="GET_INFO";
+export const SET_CLICKED_VALUE="SET_CLICKED_VALUE";
+export const UPLOAD_PROFILE="UPLOAD_PROFILE";
+export const USER_LIST="USER_LIST";
+export const EDIT_ACCOUNT="EDIT_ACCOUNT";
+export const CHANGE_PASS="CHANGE_PASS";
+export const REMEMBER_ME="REMEMBER_ME";
+export const FORGET_ME="FORGET_ME";
+export const RANDOM_POST="RANDOM_POST";

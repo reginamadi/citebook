@@ -1,0 +1,10 @@
+.menu-item {
+    padding: 8px 16px; /* Adds some padding inside the items */
+    border-radius: 20px; /* Makes the items oval */
+    transition: background-color 0.3s; /* Smooth hover effect */
+  }
+  
+  .menu-item:hover {
+    background-color: #00b5ad; /* Teal color on hover */
+    color: white; /* Optional: changes text color to white */
+  }

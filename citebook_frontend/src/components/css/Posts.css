@@ -1,0 +1,36 @@
+.image_header{
+ width:100%;   
+}
+.image{
+height:50px;
+margin-bottom: 0px !important;   
+}
+.info{
+    height:fit-content;
+    margin-bottom: 1em;
+}
+.buttons_bottom_post{
+    height: 50px;
+    position: relative;
+}
+.ui.labeled.button.like{
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+.ui.icon.button.paper {
+    position:absolute;
+    right:5px;
+    bottom:0px;
+    background-color: #00b5ad;
+ }
+
+ .ui.button.toggle.active:hover{
+    background-color: red !important;
+ }
+ .ui.button.toggle.active{
+    background-color: red !important;
+ }
+ .ui.modal .scrolling.content{
+    max-height: 100% !important;
+ }

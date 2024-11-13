@@ -1,0 +1,11 @@
+fname,lname,password,email,interests,email_verified_at,file_path,remember_token
+Robert,Garcia,123456,robertgarcia@mailinator.com,"sports, mathematics, literary",NULL,posts_pdf/profile_pic.jpg,NULL
+John,Smith,***,johnsmith@gmail.com,"systems, data science, artificial intelligence",NULL,posts_pdf/profile_pic.jpg,NULL
+Mary,Chui,Welcome1,marychui@email.com,"Data Science, Deep Learning, Data Analytics",NULL,posts_pdf/profile_pic.jpg,NULL
+Kenneth,Ibrahim,hghghg123,kennethibrahim@example.com,"Machine Learning, Artificial Intelligence, Big Data, Data Science",NULL,posts_pdf/profile_pic.jpg,NULL
+Hannah,Crawford,hannah71,hannahcrawford@gmail.com,"Communication, Business",NULL,posts_pdf/profile_pic.jpg,NULL
+Mauro,Garcia,S807231745,maurog12@flickr.com,"Logistics, Marketing",NULL,posts_pdf/profile_pic.jpg,NULL
+Mary,Smith,LbkL368099,marysmith89@example.com,"political science, education",NULL,posts_pdf/profile_pic.jpg,NULL
+James,Solomon,hackath@n1,james.solomon@gmail.com,"Internet of Things, Mobile Commerce, Electronic Governance, E-Governance",NULL,posts_pdf/profile_pic.jpg,NULL
+Jake,Miller,s55y@007,jake22@gmail.com,"German, Sports",NULL,posts_pdf/profile_pic.jpg,NULL
+Nicolas,Gonzalez,M1n91e5,ngonzalez3@huffingtonpost.com,N/A,NULL,posts_pdf/profile_pic.jpg,NULL

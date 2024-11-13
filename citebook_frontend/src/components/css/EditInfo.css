@@ -1,0 +1,31 @@
+.ui.icon.button.ab{
+    position:relative;
+    width:30%;
+    left: 1%;
+    margin-right: 1%;
+}
+.ui.button.save{
+    position:absolute;
+    bottom:0%;
+}
+.ui.button.apply{
+    position:absolute;
+    left:90%;
+    background-color:#00b5ad;
+}
+
+.Error_Span{
+    display:none;
+    color:red;
+    font-size: 15px;
+    font-weight: bold;
+    
+}
+
+.Success_Span{
+    display:none;
+    color:green;
+    font-size: 15px;
+    font-weight: bold;
+    
+}
